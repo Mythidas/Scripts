@@ -1,0 +1,3 @@
+TenantId,DefaultDomain,DisplayName,Customer,Group,Profile,Features,Enabled,GdapStatus,Notes
+00000000-0000-0000-0000-000000000001,acme.onmicrosoft.com,Acme Dental - North,Acme Dental,Dental;NorthGA,Standard,Intune;EntraP2,true,Active,
+00000000-0000-0000-0000-000000000002,acmesouth.onmicrosoft.com,Acme Dental - South,Acme Dental,Dental,Baseline,,true,Active,Second tenant for the same customer

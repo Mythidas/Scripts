@@ -1,2 +1,6 @@
 Data
 Inputs
+# Toolkit: per-environment tenant registry and overrides
+M365/Config/tenants.csv
+M365/Config/tenants.csv.bak
+M365/Config/Overrides/
