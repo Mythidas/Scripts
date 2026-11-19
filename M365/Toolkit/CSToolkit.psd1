@@ -16,9 +16,11 @@
         'Get-CSSession',
         'Get-CSTenant',
         'Get-CSTenantToken',
+        'Grant-CSTenantConsent',
         'Invoke-CSForEachTenant',
         'Invoke-CSGraph',
         'New-CSResult',
+        'Register-CSPartnerApp',
         'Set-CSContext',
         'Sync-CSTenantRegistry'
     )
